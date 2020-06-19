@@ -2,3 +2,4 @@
 ./instagramized
 
 *.mp4
+.DS_Store
